@@ -1,5 +1,12 @@
 rencana dimas kuliah adalah lulus skripsiii
 2. buat commit di branch ini lagi
+
 ini dari branch kedua
 laravel
 javascript
+
+ceritanya ini buat ditabrak dari branch 1
+laravel
+python
+nambahin react
+
